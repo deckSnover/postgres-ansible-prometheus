@@ -1,6 +1,4 @@
-## Configuração e Operação de Aplicação com Claro, aqui está o markdown revisado utilizando a primeira pessoa:
-
-# Projeto: Configuração e Operação de Aplicação com PostgreSQL, Ansible, Prometheus, Grafana, Jenkins e Kubernetes
+## Projeto: Configuração e Operação de Aplicação com PostgreSQL, Ansible, Prometheus, Grafana, Jenkins e Kubernetes
 
 Neste projeto, vou configurar e operar uma aplicação utilizando tecnologias modernas para banco de dados, automação, monitoramento e orquestração de containers.
 
